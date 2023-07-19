@@ -5,6 +5,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Sue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Sue-Gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/856361599312592936/1131018403054882927/gif.gif">
 </div>
   
   ##
