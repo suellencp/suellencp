@@ -7,8 +7,6 @@
   <img align="center" alt="Sue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Sue-Gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/856361599312592936/1131018403054882927/gif.gif">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://instagram.com/suewayy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -18,4 +16,6 @@
 
 
 ![snake gif](https://github.com/suellencp/suellencp/blob/output/github-contribution-grid-snake.svg)
+
+
 
