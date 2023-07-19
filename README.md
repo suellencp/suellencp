@@ -1,6 +1,7 @@
 ### Hello! ✨
 
 - 💻 Currently studying Software Engineering and studying Back-end
+- 👩🏽‍💻 Currently, I'm venturing into the technology universe, eager to learn and explore different languages and technologies.
 
 
 <div style="display: inline_block"><br>
