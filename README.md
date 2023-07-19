@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Suellen Cristina ✨
 
-- 🌱 Atualmente curso Engenharia de Software e estudo back-end
+- 💻 Atualmente curso Engenharia de Software e estudo back-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
