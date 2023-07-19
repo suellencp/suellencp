@@ -2,6 +2,7 @@
 
 - 💻 Currently studying Software Engineering and studying Back-end
 - 👩🏽‍💻 Currently, I'm venturing into the technology universe, eager to learn and explore different languages and technologies.
+- 📚 Every day, I dive into new concepts and projects, absorbing knowledge and seeking opportunities to grow.
 
 
 <div style="display: inline_block"><br>
