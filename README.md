@@ -1,4 +1,4 @@
-### Hello, I'm Suellen Cristina! ✨
+### Hello! ✨
 
 - 💻 Currently studying Software Engineering and studying Back-end
 
