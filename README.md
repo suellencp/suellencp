@@ -9,7 +9,7 @@
   <img align="center" alt="Sue-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sue-oracle" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Sue-Gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/856361599312592936/1131018403054882927/gif.gif">
+  <img align="right" alt="Sue-Gif" height="90" width="90" src="https://cdn.discordapp.com/attachments/856361599312592936/1131018403054882927/gif.gif?ex=68287fb8&is=68272e38&hm=349e0e189d37116a7754435efb240befc916375239ae76febc465708afcdf5e0&">
 </div>
 
  ##
